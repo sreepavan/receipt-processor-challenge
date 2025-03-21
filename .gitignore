@@ -1,0 +1,12 @@
+# Go-related
+*.exe
+*.out
+*.log
+*.test
+*.mod
+*.sum
+bin/
+vendor/
+
+# Docker-related
+docker-compose.override.yml
